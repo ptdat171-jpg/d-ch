@@ -1,0 +1,6 @@
+{
+  "name": "VoiceText AI - Chuyển Giọng Nói Thành Văn Bản",
+  "description": "Biến mọi lời nói, bài giảng, cuộc họp, tệp âm thanh và video thành văn bản chính xác với AI. Hỗ trợ tiếng Việt và đa ngôn ngữ.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
